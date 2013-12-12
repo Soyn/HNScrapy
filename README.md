@@ -11,5 +11,12 @@ Steps to Install:
         $ pip install scrapy
 3. Configure Database settings in **settings.py**
 4. Run the crawler by this command.  
-        `$ scrapy crawl hn`
+        $ scrapy crawl hn
+
+Extras
+========
+
+Output the data in JSON format by this command
+
+    scrapy crawl hn -o items.json -t json
 
