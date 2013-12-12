@@ -9,11 +9,12 @@ Steps to Install:
 2. Install Scrapy via **pip**.
 
         $ pip install scrapy
+        
 3. Configure Database settings in **settings.py**
 4. Run the crawler by this command.  
-    ```
-    $ scrapy crawl dmoz
-    ```
+
+        $ scrapy crawl dmoz
+        
 Extras
 ========
 
