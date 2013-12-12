@@ -10,6 +10,6 @@ class HnPipeline(object):
     def process_item(self, item, spider):
         session = self.Session()
         hn = Hn(**item)
-        session.merge(hn)
+        session.add(hn)
         session.commit()
         return item
