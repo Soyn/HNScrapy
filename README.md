@@ -29,3 +29,9 @@ Dependencies
 1. BeautifulSoup
 2. Lxml
 3. OpenSSL
+
+Tutorial
+========
+
+Read the tutorial for detailed explanations.
+[a link](http://pypix.com/python/build-website-crawler-based-upon-scrapy/)
