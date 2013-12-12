@@ -3,7 +3,7 @@ HNScrapy
 
 Hacker News Crawler based upon Scrapy which crawls the entire site and stores the links in the Database.
 
-Steps to Install:
+Steps to Install
 ========
 
 1. Git clone the repository into your local system.
