@@ -19,7 +19,7 @@ Steps to Install
 Extras
 ========
 
-Output the data in JSON format by this command
+Output the data in **JSON** format by this command
 
     scrapy crawl hn -o items.json -t json
 
