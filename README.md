@@ -11,5 +11,5 @@ Steps to Install:
         $ pip install scrapy
 3. Configure Database settings in **settings.py**
 4. Run the crawler by this command.  
-        $ scrapy crawl hn.
+        `$ scrapy crawl hn`
 
